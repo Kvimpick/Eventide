@@ -36,6 +36,7 @@ h2{
 	font-size: 30px;
 	margin-top: 0;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 /*====================================================Header======================================================*/
@@ -527,7 +528,7 @@ li.select2-results__option:first-child{
 	h2{
 		font-size: 26px;
 	}
-	
+
 	.section-tabs .tab-content a{
 		font-size: 14px;
 	}
